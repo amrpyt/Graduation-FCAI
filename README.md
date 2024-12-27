@@ -1,5 +1,33 @@
 # اي عرص هيعدل في ال main هنيكو 
 
+### Project Tree :
+   
+- face_recognition
+
+
+    - src
+
+        - image_capture.py
+
+        - model_training.py
+
+        - facial_recognition.py
+
+    - README.md
+
+- voice_to_text
+
+    - src
+
+    - README.md
+
+- RAG_model 
+
+    - src
+
+    - README.md
+
+
 
 ### Windows commands :
 - create  you env
